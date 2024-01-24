@@ -1,0 +1,1101 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&family=Outfit:wght@300&display=swap');
+
+
+@media screen and (min-width: 800px) and (max-width: 860px){
+    .location-description-2{
+        text-transform:uppercase;
+        width:25%;
+        height:45px;
+        font-size:25px;
+        color:white;
+        background-color:black;
+        text-align:center;
+        font-family:'Big Shoulders Display';
+        top:563px;
+        left:405px;
+        position:absolute;
+        }
+    
+        .p-description-2{
+            font-family:'Outfit';
+            font-weight: 300;
+            font-size: 17px;
+            line-height: 1.2;
+            text-align:justify;
+            color:#444444;
+            bottom:700px;
+            left:400px;
+            position:absolute;
+            width:310px;
+            }
+            
+    }
+
+
+a.ol span.ol-text {
+    display: inline-block; 
+    color: #fff;   
+    background-color: #151515;  
+}
+
+a.ol span.ol-icon {
+    background-color: #d5966c;  
+}
+
+a.ol:hover span {
+    transition-property: background-color; 
+    transition-duration: 200ms;  
+}
+
+a.ol:hover span.ol-text {
+    background-color: #d5966c;  
+}
+
+a.ol:hover span.ol-icon {
+background-color: #151515;  
+}
+
+.a-description-1{
+color:black;
+}
+
+@media screen and (max-width: 100px){
+/*#break{
+display:none;
+}*/
+.black-rectangle{
+display:none;
+}
+}
+
+ul > li{
+list-style: none;
+padding:-5px;
+margin:-1.5px;
+border-radius: box-sizing;
+}
+
+ul > li:hover > a > img{
+    filter: invert(0.21) sepia(1) saturate(7) hue-rotate(302.4deg) brightness(0.86);
+}
+
+html:focus-within {
+    scroll-behavior: smooth;
+  }
+
+a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+.m-ag{
+white-space: nowrap; 
+font-family:'Big Shoulders Display';
+font-size:40px;
+line-height:1;
+text-transform:uppercase;
+color:black;
+text-align:justify;
+font-weight:900;
+bottom:5px;
+left:2%;
+position:relative;
+}
+
+@media  (max-width:680px) {
+.arrow-right-1 {
+width:9px;
+height:27px;
+display:flex;
+padding:10px;
+left:47%;
+background-color:#d5966c;
+top:500px;
+position:absolute;
+}
+
+
+
+.location-description-1{
+text-transform:uppercase;
+width:40%;
+height:36px;
+font-size:18px;
+color:white;
+background-color:black;
+text-align:center;
+font-family:'Big Shoulders Display';
+padding:11.5px 0 0 0;
+position:absolute;
+top:500px;
+left:7%;
+}
+
+}
+.picimage-1{
+width:100%;
+height:230px;
+padding:0px;
+position: absolute;
+left:0%;
+top: 0%;
+}
+
+.m-ag{
+white-space: nowrap; 
+font-family:'Big Shoulders Display';
+font-size:40px;
+line-height:1;
+text-transform:uppercase;
+color:black;
+text-align:justify;
+font-weight:900;
+top:115px;
+left:5%;
+position:absolute;
+}
+
+.p-description-1{
+font-family:'Outfit';
+font-weight: 300;
+font-size: 18px;
+line-height: 1.3;
+text-align:justify;
+color:#444444;
+width:85%;
+position:absolute;
+top:350px;
+left:6%;
+}
+
+a.ol span.ol-text {
+    display: inline-block; 
+    color: #fff;   
+    background-color: #151515;  
+}
+
+a.ol span.ol-icon {
+    background-color: #d5966c;  
+}
+
+a.ol:hover span {
+    transition-property: background-color; 
+    transition-duration: 200ms;  
+}
+
+a.ol:hover span.ol-text {
+    background-color: #d5966c;  
+}
+
+a.ol:hover span.ol-icon {
+background-color: #151515;  
+}
+
+
+
+
+.a-description-1{
+color:black;
+}
+
+@media  (max-width:680px) {
+
+    .img-two-description {
+width:85%;
+height:300px;
+position: absolute;
+top:600px;
+left: 7%;
+}
+
+.img-three-description{
+    width:85%;
+    height:455px;
+    position: absolute;
+    top:1150px;
+left: 7%;
+    }
+    
+.img-four-description{
+    width:85%;
+    height:200px;
+    left: 7%;
+    position: absolute;
+    top: 1620px;
+    }
+
+    .your-datg-1
+{
+        white-space: nowrap; 
+        font-family:'Big Shoulders Display';
+        font-size:40px;
+        line-height:1;
+        text-transform:uppercase;
+        color:black;
+        text-align:justify;
+        margin:0px;
+        font-weight:900;
+        position: absolute;
+        top:920px;
+        left: 7%;
+        }
+    }
+
+    .footer {
+        width:100%;
+        background-color:black;
+        height:350px;
+        left: 0%;
+        position: absolute;
+        top: 2250px;
+        }
+
+.p-two-description-1{
+font-family:'Outfit';
+font-weight: 300;
+font-size: 18px;
+line-height: 1.3;
+text-align:justify;
+left:8px;
+color:#444444;
+width:80%;
+top:1000px;
+left: 8%;
+position:absolute;
+text-align: inherit;
+}
+
+
+.article-description{
+width:85%;
+height:300px;
+background-color:black;
+color:white;
+position: absolute;
+top: 1850px;
+left: 7%;
+}
+
+.come-be-1{
+font-family:'Big Shoulders Display';
+font-size:50px;
+line-height:1;
+text-transform:uppercase;
+text-align:justify;
+padding:50px 0px 0px 20px;
+margin:0px;
+font-weight:900;
+}
+
+.we-are-excited-1 {
+font-family:'Outfit';
+font-weight: 300;
+font-size: 18px;
+line-height:1.3;
+text-align:justify;
+padding:10px 30px 0px 20px;
+color:rgb(255, 255, 255);
+}
+
+
+
+.faviconimages{
+display:flex;
+gap:20px;
+padding:30px;
+}
+
+.mag-down-description{
+color:white;
+padding:50px 0 10px 30px;
+font-size:25px;
+text-transform:uppercase;
+font-family:'Big Shoulders Display';
+text-align:justify;
+}
+
+.p-down-description{
+color:white;
+padding:0px 30px 0px 30px;
+font-weight: 300;
+font-size: 18px;
+font-family:'Outfit';
+text-align:justify;
+line-height:1.3;
+}
+
+/*.footerhover:hover{
+background-color:#d5966c;
+}
+*/
+
+
+@media screen and (min-width: 700px) and (max-width:950px) {
+
+.picimage-2{
+width:61%;
+height:720px;
+padding:0px;
+margin:0px;
+position: absolute;
+left:0%;
+top: 0%;
+}
+
+.m-ag{
+white-space: nowrap; 
+font-family:'Big Shoulders Display';
+font-size:71px;
+line-height:1;
+text-transform:uppercase;
+color:black;
+text-align:justify;
+top:80px;
+left:197px;
+margin:0px;
+font-weight:900;
+position:absolute;
+}
+
+.p-description-2{
+font-family:'Outfit';
+font-weight: 300;
+font-size: 17px;
+line-height: 1.2;
+text-align:justify;
+color:#444444;
+bottom:550px;
+left:400px;
+position:absolute;
+width:310px;
+}
+
+
+.location-description-2{
+text-transform:uppercase;
+width:25%;
+height:48px;
+font-size:22px;
+color:white;
+background-color:black;
+text-align:center;
+font-family:'Big Shoulders Display';
+padding:16px 0 0 0;
+top:513px;
+left:405px;
+position:absolute;
+text-align: center;
+}
+
+.arrow-right-2{
+width:10px;
+height:24px;
+display:flex;
+background-color:#D5966C;
+padding:20.5px 20px 20px 20px;
+top:512px;
+left:595px;
+position:absolute;
+}
+
+.img-two-description {
+width:50%;
+height:370px;
+position:absolute;
+left:44%;
+top:775px;
+}
+
+.your-datg-tablet
+{
+
+font-family:'Big Shoulders Display';
+font-size:30px;
+line-height:1;
+text-transform:uppercase;
+color:black;
+font-weight:900;
+top:780px;
+position:absolute;
+height:150px;
+left:5%;
+}
+
+.next-line-desktop{
+display:none;
+}
+
+.p-two-description-2{
+font-family:'Outfit';
+font-weight: 300;
+font-size: 17px;
+line-height: 1.2;
+text-align:justify;
+color:#444444;
+width:220px;
+top:940px;
+position:absolute;
+left:5%;
+}
+
+.img-three-description{
+width:49%;
+height:670px;
+top:1180px;
+position:absolute;
+left: 5%;
+}
+
+.img-four-description{
+width:39%;
+height:300px;
+top:1180px;
+right:45px;
+position:absolute;
+}
+.article-description{
+width:39%;
+height:355px;
+background-color:black;
+color:white;
+top:1495px;
+left:55.5%;
+position:absolute;
+}
+
+.come-be-2{
+font-family:'Big Shoulders Display';
+font-size:52px;
+line-height:1;
+text-transform:uppercase;
+text-align:justify;
+padding:75px 0px 0px 30px;
+font-weight:900;
+}
+
+.we-are-excited-2 {
+font-family:'Outfit';
+font-weight: 300;
+font-size: 20px;
+line-height:1.3;
+text-align:justify;
+padding:10px 30px 20px 30px;
+color:rgb(255, 255, 255);
+bottom:20px;
+position:relative;
+}
+
+.footer {
+width:100%;
+background-color:black;
+height:230px;
+position:absolute;
+display:flex;
+top:1900px;
+left: 0%;
+}
+ 
+.faviconimages{
+display:flex;
+gap:23px;
+position:absolute;
+bottom:30px;
+right:30px;
+height:100px;
+}
+
+.mag-down-description
+{
+color:white;
+font-size:28px;
+text-transform:uppercase;
+font-family:'Big Shoulders Display';
+text-align:justify;
+bottom:70px;
+position:absolute;
+left: 3%;
+}
+
+main{
+margin:10px;
+}
+.p-down-description{
+color:white;
+font-weight:300;
+font-size: 17px;
+font-family:'Outfit';
+text-align:justify;
+line-height:1.3;
+width:300px;
+bottom:60px;
+position:absolute;
+left:180px;
+}
+
+a.ol span.ol-text {
+    display: inline-block; 
+    color: #fff;   
+    background-color: #151515;  
+}
+
+a.ol span.ol-icon {
+    background-color: #d5966c;  
+}
+
+a.ol:hover span {
+    transition-property: background-color; 
+    transition-duration: 200ms;  
+}
+
+a.ol:hover span.ol-text {
+    background-color: #d5966c;  
+}
+
+a.ol:hover span.ol-icon {
+background-color: #151515;  
+}
+
+.a-description-1{
+color:black;
+}
+
+
+}
+
+@media screen and (min-width: 1000px) {
+
+
+
+.picimage-3 {
+width:33%;
+height:530px;
+left:27%; 
+position:absolute;
+top: -2px;
+}
+
+.black-rectangle{
+bottom:98px;
+position:absolute;
+width:28%;
+height: 532px;
+left: 0.1%;
+background-color:#151515;
+top: -5.5px;
+}
+
+.black-rectangle h1{
+position: absolute;
+color:white;
+top: 13%;
+left:50%;
+font-size: 50px;
+line-height: 1;
+mix-blend-mode: difference;
+}
+
+
+
+.p-description-3{
+font-family:'Outfit';
+font-weight: 300;
+font-size: 19px;
+line-height: 1.2;
+color:#444444;
+left:54%;
+position:absolute;
+width:310px;
+top:90px;
+text-align:initial;
+}
+
+.no-next-line-desktop{
+display:none;
+}
+
+.location-description-3{
+text-transform:uppercase;
+width:132px;
+height:36px;
+font-size:20px;
+color:white;
+background-color:black;
+text-align:center;
+font-family:'Big Shoulders Display';
+padding:11px 0 0px 0;
+position:absolute;
+top:324.5px;
+left:0%;
+}
+
+.flex-wrap
+{
+display:flex;
+position:absolute;
+top:-75px;
+left:54%;
+
+}
+
+.arrow-right-3{
+width:25px;
+height:33px;
+background-color:#D5966C;
+padding:9px 0 5px 10px;
+bottom:-371.5px;
+left:130px;
+position:absolute;
+}
+/*
+    
+    .location-description-3{
+    text-transform:uppercase;
+    width:132px;
+    height:36px;
+    font-size:20px;
+    color:white;
+    background-color:black;
+    text-align:center;
+    font-family:'Big Shoulders Display';
+    padding:15px 0 0px 0;
+    position:absolute;
+    top:321px;
+    left:0%;
+    }
+    
+    .arrow-right-3{
+        width:25px;
+        height:33px;
+        background-color:#D5966C;
+        padding:11px 2px 7px 13px;
+        bottom:-371.5px;
+        left:132px;
+        position:absolute;
+        justify-content: center;
+        }
+
+    .flex-wrap
+    {
+    display:flex;
+    position:absolute;
+    top:-75px;
+    left:65%;
+ }
+*/
+
+
+
+.img-two-description {
+width:38%;
+height:330px;
+position:absolute;
+top:620px;
+left:45%;
+}
+
+#your-datg-3
+{
+
+font-family:'Big Shoulders Display';
+font-size:30px;
+line-height: 1.5em;
+height: 5em;    
+text-transform:uppercase;
+color:black;
+font-weight:900;
+top:635px;
+display: flex;
+width:200px;
+height:80px;
+text-align:inherit;
+left:14.3%;
+position:absolute;
+}
+
+.p-two-description-3{
+font-family:'Outfit';
+font-weight: 300;
+font-size: 19px;
+line-height: 1.3;
+text-align:initial;
+color:#444444;
+width:250px;
+top:760px;
+left:14.5%;
+position:absolute;
+}
+
+.img-three-description{
+top:990px;
+width:37%;
+left:14.5%;
+height:650px;
+position:absolute;
+}
+
+.img-four-description{
+width:30%;
+height:275px;
+top:990px;
+right:17%;
+position:absolute;
+}
+.article-description{
+width:30%;
+height:340px;
+background-color:black;
+color:white;
+top:1298px;
+left:53%;
+position:absolute;
+}
+
+.come-be-3{
+font-family:'Big Shoulders Display';
+font-size:40px;
+line-height:1;
+text-transform:uppercase;
+text-align:justify;
+padding:55px 0px 0px 40px;
+font-weight:900;
+}
+
+.we-are-excited-3 {
+font-family:'Outfit';
+font-weight: 300;
+font-size: 15px;
+line-height:1.3;
+text-align:initial;
+padding:20px 50px 40px 40px;
+color:rgb(255, 255, 255);
+bottom:20px;
+
+}
+
+.footer {
+width:100%;
+background-color:black;
+top:1670px;
+height:160px;
+position:absolute;
+}
+ 
+.faviconimages{
+display:flex;
+gap:20px;
+left:70%;
+height:40px;
+position:absolute;
+}
+
+.mag-down-description
+{
+color:white;
+/*padding:35px 0 10px 150px;*/
+font-size:25px;
+text-transform:uppercase;
+font-family:'Big Shoulders Display';
+position:absolute;
+text-align:justify;
+left:11.2%;
+bottom:25px;
+}
+
+
+.p-down-description{
+color:white;
+font-weight:300;
+font-size: 14px;
+font-family:'Outfit';
+text-align:justify;
+line-height:1.3;
+width:300px;
+/*margin:-250px 0 0 0;*/
+position:absolute;
+text-align:initial;
+left:29%;/*left:20px;*/
+
+bottom:45px;
+
+}
+
+a#ol span#ol-text {
+    display: inline-block; 
+    color: #fff;   
+    background-color: #151515;  
+}
+
+a#ol span#ol-icon {
+    background-color: #d5966c;  
+}
+
+a#ol:hover span {
+    transition-property: background-color;
+    transition-duration: 200ms;  
+}
+
+a#ol:hover span#ol-text {
+    background-color: #d5966c;  
+}
+
+a#ol:hover span#ol-icon {
+background-color: #151515;  
+}
+
+.a-description-1{
+color:black;
+}
+
+}
+
+
+@media screen and (min-width: 1350px) {
+
+
+
+    .picimage-3 {
+    width:37%;
+    height:550px;
+    left:31.5%; 
+    position:absolute;
+    top: -2px;
+    }
+    
+    .black-rectangle{
+    position:absolute;
+    width:32%;
+    height: 552px;
+    left: 0.1%;
+    background-color:#151515;
+    top: -5.5px;
+    }
+    
+    .black-rectangle h1{
+    position: absolute;
+    color:white;
+    top: 10%;
+    left:52%;
+    font-size: 70px;
+    line-height: 1;
+    mix-blend-mode: difference;
+    }
+    
+    
+    .p-description-3{
+    font-family:'Outfit';
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 1.2;
+    color:#444444;
+    left:65%;
+    position:absolute;
+    width:310px;
+    top:90px;
+    text-align:initial;
+    }
+    
+    .no-next-line-desktop{
+    display:none;
+    }
+    
+    .location-description-3{
+    text-transform:uppercase;
+    width:132px;
+    height:36px;
+    font-size:20px;
+    color:white;
+    background-color:black;
+    text-align:center;
+    font-family:'Big Shoulders Display';
+    padding:15px 0 0px 0;
+    position:absolute;
+    top:321px;
+    left:0%;
+    }
+    
+    .arrow-right-3{
+        width:25px;
+        height:33px;
+        background-color:#D5966C;
+        padding:11px 2px 7px 13px;
+        bottom:-371.5px;
+        left:132px;
+        position:absolute;
+        justify-content: center;
+        }
+
+    .flex-wrap
+    {
+    display:flex;
+    position:absolute;
+    top:-75px;
+    left:65%;
+ }
+    
+    .img-two-description {
+    width:42%;
+    height:330px;
+    position:absolute;
+    top:640px;
+    left:44%;
+    }
+    
+    #your-datg-3
+    {
+    
+    font-family:'Big Shoulders Display';
+    font-size:35px;
+    line-height: 1.5em;
+    height: 5em;    
+    text-transform:uppercase;
+    color:black;
+    font-weight:900;
+    top:635px;
+    display: flex;
+    width:250px;
+    height:80px;
+    text-align:inherit;
+    left:17.3%;
+    position:absolute;
+    }
+    
+    
+    
+    
+    
+    .p-two-description-3{
+    font-family:'Outfit';
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 1.3;
+    text-align:initial;
+    color:#444444;
+    width:250px;
+    top:780px;
+    left:17.5%;
+    position:absolute;
+    }
+    
+    .img-three-description{
+    top:990px;
+    width:37%;
+    left:17.5%;
+    height:650px;
+    position:absolute;
+    }
+    
+    .img-four-description{
+    width:30%;
+    height:275px;
+    top:990px;
+    right:14%;
+    position:absolute;
+    }
+    .article-description{
+    width:30%;
+    height:340px;
+    background-color:black;
+    color:white;
+    top:1298px;
+    left:56%;
+    position:absolute;
+    }
+    
+    .come-be-3{
+    font-family:'Big Shoulders Display';
+    font-size:40px;
+    line-height:1;
+    text-transform:uppercase;
+    text-align:justify;
+    padding:55px 0px 0px 40px;
+    font-weight:900;
+    }
+    
+    .we-are-excited-3 {
+    font-family:'Outfit';
+    font-weight: 300;
+    font-size: 15px;
+    line-height:1.3;
+    text-align:initial;
+    padding:20px 50px 40px 40px;
+    color:rgb(255, 255, 255);
+    bottom:20px;
+    
+    }
+    
+    .footer {
+    width:100%;
+    background-color:black;
+    top:1670px;
+    height:160px;
+    position:absolute;
+    }
+     
+    .faviconimages{
+    display:flex;
+    gap:20px;
+    left:77%;
+    height:40px;
+    position:absolute;
+    }
+    
+    .mag-down-description
+    {
+    color:white;
+    /*padding:35px 0 10px 150px;*/
+    font-size:25px;
+    text-transform:uppercase;
+    font-family:'Big Shoulders Display';
+    position:absolute;
+    text-align:justify;
+    left:15.5%;
+    bottom:25px;
+    }
+    
+    
+    .p-down-description{
+    color:white;
+    font-weight:300;
+    font-size: 14px;
+    font-family:'Outfit';
+    text-align:justify;
+    line-height:1.3;
+    width:300px;
+    /*margin:-250px 0 0 0;*/
+    position:absolute;
+    text-align:initial;
+    left:38%;/*left:20px;*/
+    bottom:45px;
+    
+    }
+    
+    
+    a#ol span#ol-text {
+        display: inline-block; 
+        color: #fff;   
+        background-color: #151515;  
+    }
+    
+    a#ol span#ol-icon {
+        background-color: #d5966c;  
+    }
+    
+    a#ol:hover span {
+        transition-property: background-color;
+        transition-duration: 200ms;  
+    }
+    
+    a#ol:hover span#ol-text {
+        background-color: #d5966c;  
+    }
+    
+    a#ol:hover span#ol-icon {
+    background-color: #151515;  
+    }
+    
+    .a-description-1{
+    color:black;
+    }
+    
+    }
+
