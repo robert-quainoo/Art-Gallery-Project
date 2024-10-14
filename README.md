@@ -1,7 +1,3 @@
-Got it! Here’s a revised version following the Tic-Tac-Toe format:
-
----
-
 # Art Gallery Management System
 
 ### Overview
